@@ -3,6 +3,7 @@
 ?>
 <body>
     <div class="container">
+        <h2>CADASTRO DE PRODUTO</h2>
         <form>
             <div class="mb-3">                
                 <input type="text" name="produto" class="form-control" placeholder="Digite o nome do Produto">                

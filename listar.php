@@ -3,6 +3,7 @@
 ?>
 <body>    
     <div class="container">
+        <h2>LISTAGEM DE PRODUTOS</h2>
         <table class="table">
             <thead>
                 <tr>
@@ -16,13 +17,13 @@
             <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
+                    <td>Teclado Gamer</td>
+                    <td>120,99</td>
+                    <td>10</td>
                     <td>
                         <div class="btn-group" role="group">
-                            <a href="#" type="button" class="btn btn-danger">Atualizar</a>
-                            <a href="#" type="button" class="btn btn-warning">Apagar</a>
+                            <a href="#" type="button" class="btn btn-success">Atualizar</a>
+                            <a href="#" type="button" class="btn btn-danger">Apagar</a>
                         </div>
                     </td>
                 </tr>                
