@@ -1,9 +1,7 @@
 <?php
     include 'cabecalho.php';
 ?>
-<body>
-    <h1>Bem vindo ao 1º Sistema com CRUD</h1>
-    <h2>Anderson Vanin</h2>
+<body>    
     <div class="container">
         <table class="table">
             <thead>
@@ -22,7 +20,7 @@
                     <td>Otto</td>
                     <td>@mdo</td>
                     <td>
-                        <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+                        <div class="btn-group" role="group">
                             <a href="#" type="button" class="btn btn-danger">Atualizar</a>
                             <a href="#" type="button" class="btn btn-warning">Apagar</a>
                         </div>

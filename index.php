@@ -2,9 +2,7 @@
     include 'cabecalho.php';
 ?>
 <body>
-    <div class="container">
-        <h1>Bem vindo ao 1º Sistema com CRUD</h1>
-        <h2>Anderson Vanin</h2>
+    <div class="container">        
         <div class="btn-group" role="group" aria-label="Basic mixed styles example">
             <a href="#" type="button" class="btn btn-danger">Cadastrar</a>
             <a href="#" type="button" class="btn btn-warning">Listar</a>
